@@ -3,7 +3,7 @@
 #include <device_launch_parameters.h>
 #include <cuda.h>
 #include <stdio.h>
-#include <ctime>s
+#include <ctime>
 #define N 100000000//size of vectors declared globally
 #define M 1024//threads per block
 
